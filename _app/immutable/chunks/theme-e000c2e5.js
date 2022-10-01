@@ -1,0 +1,1 @@
+import{A as a}from"./index-d0eb3dfc.js";function o(){const{subscribe:t,set:r,update:e}=a(!0);return{subscribe:t,set:r,setLight:()=>e(()=>!0),setDark:()=>e(()=>!1),toggleTheme:()=>e(s=>!s)}}const c=o();export{c as t};
